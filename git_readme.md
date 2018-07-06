@@ -1,3 +1,4 @@
+git read
 1.从官网下载安装Git 
 2.菜单--Git--Git Bash 
 3.初始设置 
